@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="Email">Email</string>
+    <string name="Contraseña">Contraseña</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Registrar">¿No tienes una cuenta? Registrate ahora</string>
+
+</resources>
